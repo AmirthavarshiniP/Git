@@ -1,4 +1,4 @@
-package Factorymethod;
+
 
 public class Airbus extends Bus{
     @Override
